@@ -3,10 +3,9 @@ olist e commerce data analysis project
 
 Dataset:
 
+  - Brazilian E-Commerce Public Dataset by Olist: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Brazilian E-Commerce Public Dataset by Olist: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
-Marketing Funnel by Olist: https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
+  - Marketing Funnel by Olist: https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
 
 Báo cáo: https://docs.google.com/document/d/1kD957vnHxUtxkllt_wqI3Y7XtM2Wfh27rGguTCzfDhg/edit?usp=sharing
 
